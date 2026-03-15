@@ -13,4 +13,4 @@ For this I mostly followed a tutorial, using onshapes sketch and extrude tools t
 
 ![case pic 1](https://github.com/Harvey-Stardew/Mouse-case/blob/93c659fd5dbbd1aa3251539a726f9ed1946d87ea/IMG_0019.png)
 
-this stupid masterpeice
+this stupid masterpeice that took me far too long for what it is
