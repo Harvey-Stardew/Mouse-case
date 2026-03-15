@@ -1,5 +1,5 @@
 # Mouse-case
-Mouse case made via tutorial for strasis, with the additon of some cat-like features :3, my first project for strasis (of hopefully at least a few)
+Mouse case made via tutorial for strasis, with the additon of some cat-like features :3, my first project for strasis (of hopefully at least a few) as an attempt to get more into some hardware stuff
 
 # What I used
 
@@ -14,3 +14,7 @@ For this I mostly followed a tutorial, using onshapes sketch and extrude tools t
 ![case pic 1](https://github.com/Harvey-Stardew/Mouse-case/blob/93c659fd5dbbd1aa3251539a726f9ed1946d87ea/IMG_0019.png)
 
 this stupid masterpeice that took me far too long for what it is
+
+# BOM
+
+Nothing! I can print things at my highschool for free!
