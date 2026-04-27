@@ -15,7 +15,7 @@ For this I mostly followed a tutorial, using onshapes sketch and extrude tools t
 
 this stupid masterpeice that took me far too long for what it is
 
-![case pic 2]()
+![case pic 2](https://github.com/Harvey-Stardew/Mouse-case/blob/main/zSqueak_finished.jpg?raw=true)
 
 and here he is printed ^
 # BOM
