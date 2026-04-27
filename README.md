@@ -15,6 +15,9 @@ For this I mostly followed a tutorial, using onshapes sketch and extrude tools t
 
 this stupid masterpeice that took me far too long for what it is
 
+![case pic 2]()
+
+and here he is printed ^
 # BOM
 
 Nothing! I can print things at my highschool for free!
